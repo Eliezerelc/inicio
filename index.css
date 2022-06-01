@@ -6,9 +6,10 @@
      background-color: white;
  }
 .di {
-    position: absolute;
-   
-    background-color: ;
+    position: absolute;   
+    top: 50%;
+    left: 20%;
+    translate: 50%,50%;
     width: 600px;
     height:400px;
     border-radius: 20px;
@@ -16,7 +17,6 @@
     justify-content: center;
 }
  .for {
-    background-color: ;
     translate: 50% , 50%;
     position: absolute;
     right: 35%;
