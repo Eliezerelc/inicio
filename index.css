@@ -20,7 +20,7 @@ body {
      font-size: xx-large;
      color:black;
  }
-.for input{
+input{
     display: flex;
     border-radius: 10px;
     width: 250px ;
